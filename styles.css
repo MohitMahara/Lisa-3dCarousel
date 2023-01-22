@@ -35,7 +35,7 @@
     background-color: green;
     border: none;
      cursor: pointer;
-     font-weight: border;
+     font-weight: bolder;
      letter-spacing: 1px;
   }
 
@@ -148,11 +148,6 @@
   #play , #restart{
     padding: 2rem 5rem;
     border-radius: 12px;
-    background-color: green;
-    border: none;
-     cursor: pointer;
-     font-weight: border;
-     letter-spacing: 1px;
       font-size:0.9rem;
   }
 }
